@@ -1,0 +1,79 @@
+{
+  "fields": [
+    {
+      "type": "date",
+      "name": "Zeit",
+      "format": "%d.%m.%Y"
+    },
+    {
+      "name": "Wohnen.percent",
+      "type": "number",
+      "decimalChar": ","
+    },
+    {
+      "name": "Wohnen.ha",
+      "type": "number",
+      "decimalChar": ","
+    },
+    {
+      "type": "number",
+      "decimalChar": ",",
+      "name": "Industrie_und_Gewerbe.percent"
+    },
+    {
+      "type": "number",
+      "decimalChar": ",",
+      "name": "Industrie_und_Gewerbe.ha"
+    },
+    {
+      "type": "number",
+      "decimalChar": ",",
+      "name": "Sport_Freizeit_Erholungsfläche.percent"
+    },
+    {
+      "type": "number",
+      "decimalChar": ",",
+      "name": "Sport_Freizeit_Erholungsfläche.ha"
+    },
+    {
+      "type": "number",
+      "decimalChar": ",",
+      "name": "Friedhof.percent"
+    },
+    {
+      "type": "number",
+      "decimalChar": ",",
+      "name": "Friedhof.ha"
+    },
+    {
+      "type": "number",
+      "decimalChar": ",",
+      "name": "Sonstige_Siedlungsflächen.percent"
+    },
+    {
+      "type": "number",
+      "decimalChar": ",",
+      "name": "Sonstige_Siedlungsflächen.ha"
+    },
+    {
+      "type": "number",
+      "decimalChar": ",",
+      "name": "Verkehr.percent"
+    },
+    {
+      "type": "number",
+      "decimalChar": ",",
+      "name": "Verkehr.ha"
+    },
+    {
+      "type": "number",
+      "decimalChar": ",",
+      "name": "Siedlungs_und_Verkehrsflächen_insgesamt.percent"
+    },
+    {
+      "type": "number",
+      "decimalChar": ",",
+      "name": "Siedlungs_und_Verkehrsflächen_insgesamt.ha"
+    }
+  ]
+}
