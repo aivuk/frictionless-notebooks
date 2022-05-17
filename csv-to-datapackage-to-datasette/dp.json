@@ -1,0 +1,118 @@
+{
+  "resources": [
+    {
+      "path": "gdb-2021-full-dataset.csv",
+      "name": "gdb-2021-full-dataset",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "type": "string",
+            "name": "iso3"
+          },
+          {
+            "type": "string",
+            "name": "country"
+          },
+          {
+            "type": "string",
+            "name": "pillar"
+          },
+          {
+            "type": "string",
+            "name": "module"
+          },
+          {
+            "type": "string",
+            "name": "indicator_id"
+          },
+          {
+            "type": "string",
+            "name": "indicator_name"
+          },
+          {
+            "type": "string",
+            "name": "indicator_type"
+          },
+          {
+            "type": "string",
+            "name": "variable_name"
+          },
+          {
+            "type": "string",
+            "name": "question"
+          },
+          {
+            "type": "integer",
+            "name": "hierarchy_level"
+          },
+          {
+            "type": "string",
+            "name": "data_type"
+          },
+          {
+            "type": "string",
+            "name": "response"
+          },
+          {
+            "type": "integer",
+            "name": "response_value"
+          },
+          {
+            "type": "number",
+            "name": "normalized_response_value"
+          },
+          {
+            "type": "number",
+            "name": "weight"
+          },
+          {
+            "type": "number",
+            "name": "score"
+          },
+          {
+            "type": "string",
+            "name": "parent"
+          },
+          {
+            "type": "number",
+            "name": "row_order"
+          },
+          {
+            "type": "integer",
+            "name": "question_order"
+          },
+          {
+            "type": "number",
+            "name": "wip"
+          },
+          {
+            "type": "number",
+            "name": "wib"
+          },
+          {
+            "type": "number",
+            "name": "wim"
+          },
+          {
+            "type": "string",
+            "name": "regional_hub"
+          },
+          {
+            "type": "string",
+            "name": "un_region"
+          },
+          {
+            "type": "string",
+            "name": "barometer_region"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package"
+}

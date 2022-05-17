@@ -1,0 +1,298 @@
+country,question,response
+Brazil,"To what extent do relevant laws, regulations, policies, and guidance provide a comprehensive framework for protection of personal data?",
+Brazil,"To what extent do relevant laws, regulations, policies, and guidance provide a comprehensive framework for protection of personal data?","Brazil offers a comprehensive framework for protecting personal data. Since 2010 the legal framework for the protection of personal data has been developed in the country (1). The chronology is as follows: in 2013 a bill was proposed on the processing and use of personal data in the Federal Senate; in 2015 the project proposal was approved; in 2017, other projects began to be processed in the Chamber and Senate; the General Personal Data Protection Law was enacted in August 2018; in 2019, the creation of the National Data Protection Authority was approved; the general protection law entered into force in August 2020 (2).
+
+Law no. 13.709, of August 14, 2018, General Law for the Protection of Personal Data provides citizens with control over the treatment of their data, through principles and rules that must be observed by private and public organizations.
+
+The main foundations (3) of the law respect for, informative self-determination, freedom of expression, information, communication, and opinion; inviolability of intimacy, honor, and image; economic and technological development and innovation; free enterprise, free competition, and consumer protection; human rights, the free development of personality, dignity and the exercise of citizenship by natural persons.
+
+The law provides under which circumstances the processing of data can be carried out, distinguishes personal data from sensitive data, determines the rights of the data subject regarding the processing, collection, and control; establishes the principles of data processing by the government; creates two people to control, operate and respond to data processing, the person in charge and the controller (3).
+
+The general law was modified to create compliance guidelines and the oversight body. Law no. 13,853, of July 8, 2019 (4) established measures to ensure compliance with data protection rules, created the National Data Protection Authority, a body linked to the Presidency of the Republic, and the National Council for the Protection of Personal Data and Privacy.
+The authority is responsible for drafting the guidelines for the National Policy for the Protection of Personal Data and Privacy; monitor and apply sanctions in case of non-compliance with the law or irregularities. The authority must promote knowledge of the norms for the population, safety and security policies, and cooperate with authorities in other countries.
+
+The National Council for the Protection of Personal Data and Privacy acts as a consultation body for the national authority, proposing guidelines, providing subsidies for the creation of national policy, preparation of studies, debates, and public hearings (4). The Council is composed of members of civil society and public authorities, who were recently selected through a public notice (5).
+
+
+Source:
+(1) LUGATI, L.N.; ALMEIDA, J.E. de. The evolution of data protection legislation: the need to reassess the role of consent as a guarantor of informative self-determination. Journal of Law, [S. l.], v. 12, no. 02, p. 01-33, 2020. DOI: 10.32361/2020120210597. Available at: https://periodicos.ufv.br/revistadir/article/view/10597. Accessed on: July 17, 2021.
+
+(2) Timeline of Personal Data Protection and the General Personal Data Protection Law in Brazil. Available at: https://www.serpro.gov.br/lgpd/menu/arquivos/linha-do-tempo/view
+(3) General Guide to the General Personal Data Protection Law. Available at: https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd
+
+(4) LAW No. 13.853, OF JULY 8, 2019 amends Law No. 13.709, of August 14, 2018, to provide for the protection of personal data and to create the National Data Protection Authority, and makes other arrangements. Available at: http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/13853.htm
+(5) Composition of the National Council for the Protection of Personal Data and Privacy. Available at: https://www.gov.br/anpd/pt-br/composicao-1/conselho-nacional-de-protecao-de-dados-pessoais-e-privacidade-cnpd/indicacoes-ao-cnpd"
+Brazil,1,[The evolution of data protection legislation: the need to reassess the role of consent as a guarantor of informative self-determination](https://2021-files.globaldatabarometer.org/127/eSzF9Ic-10597-Texto%20do%20artigo-48773-1-10-20200827%20%281%29.pdf)
+Brazil,2,[Timeline of General Law for the Protection of Personal Data](https://2021-files.globaldatabarometer.org/127/_vwGdFE-linha-do-tempo.png)
+Brazil,3,[PRIVACY AND GENERAL PERSONAL DATA PROTECTION LAW/PRIVACIDADE E LEI GERAL DE PROTECÃO DE DADOS PESSOAIS](https://2021-files.globaldatabarometer.org/127/ewW8A9U-5343-17177-2-PB.pdf)
+Brazil,Existence,
+Brazil,What is the nature of the framework?,A framework exists and has the force of law.
+Brazil,2;Please identify the framework(s) you have assessed (e.g. name of law(s) or regulations),"The data protection framework is based on the General Law for the Protection of Personal Data (LGPD) n.13.709 of August 2018 (1). The legislation came into force in August 2020. In July 2019, law n.13953 amended the LGPD and created the National Authority for the Protection of Personal Data (2). The created body must implement, supervise and ensure compliance with the law in the national territory. The LGPD was inspired by the General Data Protection Regulation (European Union). The law regulates the processing of personal data on digital media, either by a natural person or by a legal person under public or private law. The aim is to protect the fundamental rights of freedom and privacy. The law defines data categories; determines the possibilities of collection, processing of data, purpose, and need for requesting and using personal data; establishes the rights of data subjects, including for special conditions of sensitive data and segments of the population; establishes the obligations towards companies, a differentiated regime for the Public Power; determines the creation of a national authority to establish sanctions in case of violations, guidelines, alerts and any type of penalties; citizen guarantee system to request that data be deleted or revoked at any time. The law institutes three important figures: the Controller, the Operator, and the Supervisor. Organizations must have agents responsible for the processing of data with functions determined according to the size and volume of data processed. Therefore, Brazilian law guarantees the choice and consent, access and correction to the data, demands responsibility from data holders, and rights of reparation.
+It is important to emphasize that the defense of values ​​of privacy, data protection, intimacy, and inviolability of communications already had a relative guarantee through the following laws: Marco Civil da Internet that developed human rights in digital media, consumer protection law, etc.
+After the LGPD was in force, it was approved from the structure of regulations of the National Authority through decree n.10,474 of 2020. The decree created the board of directors with a mandate period and attributions of the directors.
+The National Authority for the Protection of Personal Data has technical and decision-making autonomy to supervise and develop guidelines and norms related to the protection, collection, use, storage, and distribution of personal data of Brazilian citizens. In January 2021, the Authority's ordinance 11 of 2021 established a Regulatory Agenda, determined the creation of the Internal Regulation and the Strategic Planning for the 2021-2023 triennium.
+
+Source:
+(1) General Personal Data Protection Law available at http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Lei/L13709.htm
+(2)Personal Data Protection Authority available at: https://www.gov.br/anpd/pt-br/documentos-e-publicacoes/planejamento- estrategico/planejamento-estrategico-2021-2023.pdf"
+Brazil,Elements,
+Brazil,Rights and responsibilities:,
+Brazil,The framework provides data subjects with rights of choice or consent.,Yes
+Brazil,2;Please indicate which section of the framework refers to this issue.,"Articles 5 and 7 of the General Data Protection Law (LGPD) establish the legal bases for a person's data to be processed by a company or institution, to protect the fundamental rights of freedom and privacy of its holder. The request for consent from the data subject is an essential principle. The request for consent can be made through a form or other instrument, as long as it explains transparently the reason for collecting the information.
+The consent form must present a process flow and information about those responsible. The text of the consent form must explain the specific purposes of data collection and processing. There are exceptions for the use of data without the consent of the holder: compliance with legal or regulatory provisions by the controller; by public administration, of public policies provided for in-laws or regulations; studies by research body; regular exercise of rights, including in contracts and judicial, administrative and arbitration proceedings; protection of life; health protection; and ensuring fraud prevention and the security of the holder.
+
+Source:
+(1) General Personal Data Protection Law available at http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Lei/L13709.htm"
+Brazil,The framework provides data subjects with rights to access and correct data about themselves.,Yes
+Brazil,2;Please indicate which section of the framework refers to this issue.,"The holder of personal data has the right to request the data controller, at any time, to correct incomplete, inaccurate or outdated data.
+The agents responsible for processing the data must guarantee the rights of access and correction of personal data.
+According to article 18, the holder of personal data has the right to request the data controller, at any time, to: correction of incomplete, inaccurate or outdated data, deletion of personal data, confirmation of the existence of processing.
+The data controller carries out the processing in accordance with the principles or correctly guides the operator to carry out a lawful processing of the data. The controller is responsible for decisions regarding the processing of personal data. The operator complies with the legal orders and provisions of the law and determined by the controller for the processing of data. The responsible person is the person designated by the controller to act as a communication channel between the controller, the data subjects and the National Data Protection Authority.
+
+Source:
+(1) General Personal Data Protection Law available at http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Lei/L13709.htm
+(2)Personal Data Protection Authority available at: https://www.gov.br/anpd/pt-br/documentos-e-publicacoes/planejamento- estrategico/planejamento-estrategico-2021-2023.pdf"
+Brazil,The framework sets out clear responsibilities for data holders.,Yes
+Brazil,2;Please indicate which section of the framework refers to this issue.,"The National Authority for the Protection of Personal Data (ANPD) is in charge of monitoring and penalizing in case of non-compliance with the law.
+The law determines that organizations - public and private authorities, must have agents responsible for the processing of data with the functions of controllers, operators, and supervisors.
+The operator is a natural or legal person, under public or private law, who processes personal data on behalf of the controller.
+The controller is a natural or legal person, under public or private law, who is responsible for decisions regarding the processing of personal data.
+The operator must comply with the legal orders and provisions of the law and be determined by the controller for the processing of data.
+The person in charge is the person appointed by the controller and operator to act as a communication channel between the controller, the data subjects, and the National Data Protection Authority.
+The law also determines conditions for compensation for damages, security, and secrecy in Chapters 6 and 7. Thus, database managers are required to manage risks and failures; reduce governance standards; adopt preventive security measures; replicate good practices and certifications existing in the market; prepare contingency plans; and audits. This includes notification to the national authority and affected individuals in the event of data leakage.
+
+Source:
+(1) General Personal Data Protection Law available at http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Lei/L13709.htm
+(2)Personal Data Protection Authority available at: https://www.gov.br/anpd/pt-br/documentos-e-publicacoes/planejamento- estrategico/planejamento-estrategico-2021-2023.pdf"
+Brazil,The framework provides rights of redress,Yes
+Brazil,2;Please indicate which section of the framework refers to this issue.,"The law determines liability and compensation for damages. According to article 42, the controller or operator of personal data responds to any breach of the protection of personal data and must redress.
+The repair must guarantee effective compensation to the data subject, both when there is non-compliance with legal obligations, as well as the use of unlawful instructions by the agents responsible for processing the data. The law guarantees the repair of collective data.
+If it is proven that the damage is due to the sole fault of the data subject or a third party, the agents responsible for the processing will not be penalized.
+The processing of data is considered irregular when it does not provide security to the data subject, about how it is carried out, results, risks, and processing techniques.
+
+According to the legislation, the National Authority can apply sanctions and fines. Despite being linked to the Presidency of the Republic, technical autonomy is guaranteed by law. The collegiate is composed of unpaid members, with a two-year term, and from different sectors: six from the Federal Executive; one from the Federal Senate; one from the Chamber of Deputies; one from the National Council of Justice; one from the National Council of the Public Ministry; one from the Brazilian Internet Steering Committee; four from civil society with proven performance in personal data protection; four from a scientific, technological and innovation institution; and four from an entity in the business sector linked to the area of ​​personal data processing.
+
+Source:
+(1) General Personal Data Protection Law available at http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Lei/L13709.htm
+(2)Personal Data Protection Authority available at: https://www.gov.br/anpd/pt-br/documentos-e-publicacoes/planejamento- estrategico/planejamento-estrategico-2021-2023.pdf"
+Brazil,The framework requires data controllers to notify an appropriate authority of data breaches.,Yes
+Brazil,2;Please indicate which section of the framework refers to this issue.,"According to article 48 of the LGPD, the data controller is obliged to communicate to the National Data Protection Authority and the data subject about the occurrence of a security incident that could cause relevant risk or damage.
+The communication must be made within a reasonable time, describing the nature of the affected data, information about the holders involved, indicating the techniques and security used, the risks related to the incidents, and measures taken to mitigate the effects of the damage.
+The national authority must assess the seriousness of the incident, safeguard the rights of the holders, and determine the adoption of action by the controller. Among the measures that the authority must determine, the disclosure of facts in the means of communication, mitigation measures, evaluation of the adopted measures, technical limits, and the systems used for the processing of personal data based on standards of good practice stand out and governance.
+Source:
+(1) General Personal Data Protection Law available at http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Lei/L13709.htm
+(2)Personal Data Protection Authority available at: https://www.gov.br/anpd/pt-br/documentos-e-publicacoes/planejamento- estrategico/planejamento-estrategico-2021-2023.pdf"
+Brazil,Specific considerations:,
+Brazil,Frameworks explicitly cover the protection of location-related data.,No
+Brazil,The framework addresses algorithmic decision making.,Yes
+Brazil,2;Please indicate which section of the framework refers to this issue.,"With regard to the right to review automated decisions, which is the subject of this text, it should be remembered that this was already provided for in article 5, item VI, of the Positive Registration Law.
+Article 20 of the LGPD provides for the possibility of the data subject having the review of decisions taken in an automated way. The premise is assured in the perspective that the use of artificial intelligence is also subject to errors, due to technological deficiencies or even the use of a limited or incomplete database.
+
+In addition, the Positive Registration Law, article 5, determined as the right of the consultant the right to request a review of the decision carried out exclusively by automated means.
+
+Source:
+General Law for the Protection of Personal Data. No. 13.709, of August 2018. Article 5. Available at: http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709compilado.htm
+Positive Registration Law. Available at: http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12414.htm"
+Brazil,Negative scoring:,
+Brazil,Exceptions to the usual data protection framework have been made as part of the country's COVID-19 response.,No
+Brazil,Extent,
+Brazil,How broadly does this data protection framework apply?,The framework applies widely across all sectors (including public and private sector).
+Brazil,2;Please describe all sectors included in the framework and indicate which section of the framework refers to this issue.,"The General Data Protection Law protects the data of natural persons, processed by any person, natural or legal, under public or private law, regardless of whether or not they carry out any business activity. According to article 3, the LGPD applies to any processing operation carried out by a natural or legal person under public or private law.
+
+Source:
+(1) General Personal Data Protection Law available at http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Lei/L13709.htm"
+Brazil,Does this framework apply across the whole country?,"The framework assessed, or equivalent frameworks, apply across the whole country."
+Brazil,"2;Please indicate if the framework applies to the whole country, and if not, mention some of the equivalent ones from other regions.","The general rules contained in this General Law for the Protection of Personal Data are of national interest and must be observed by the Union, States, Federal District and Municipalities. According to article 3, the law applies to any processing operation carried out in national territory.
+
+Source:
+http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm"
+Brazil,"To what extent do relevant laws, regulations, policies, and guidance provide a comprehensive framework for generating and publishing open data?",
+Brazil,"To what extent do relevant laws, regulations, policies, and guidance provide a comprehensive framework for generating and publishing open data?","The country's laws, regulations, policies, and guidelines provide a comprehensive framework for generating and publishing open data. The country took its first steps towards the creation of the National Open Data Infrastructure with the Open Government Partnership in 2011 (1). With the Access to Information Act (2), the opening of data to the Public Administration became mandatory. In 2012, a normative instruction created the National Open Data Infrastructure (3). In 2016, the Federal Government's Open Data Policy was instituted (4). In 2017, Resolution No. 3 defined the creation of Open Data Plans to support the publication and cataloging of data. In the same year, the terms of use of the Brazilian Open Data Portal were defined (5). In 2019, the Office of the Comptroller General of the Union assumed the management of the national policy, creating policy monitoring and follow-up panels (6).
+
+Source:
+(1) https://dados.gov.br/pagina/dados-abertos
+(2) https://www.lexml.gov.br/urn/urn:lex:br:federal:lei:2011-11-18;12527
+(3) https://dados.gov.br/pagina/instrucao-normativa-da-inda
+(4) https://legislacao.presidencia.gov.br/atos/?tipo=DEC&numero=8777&ano=2016&ato=c90ATSq1EeZpWT24e
+(5) https://www.gov.br/governodigital/pt-br/legislacao/resolucaocginda22432017pdf.pdf
+(6) https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D9903.htm"
+Brazil,1,[What is open data? Definition by government.](https://dados.gov.br/pagina/dados-abertos)
+Brazil,2,[Acsess to information Law](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm)
+Brazil,3,[Organization of the National Data Infrastructure Open and Brazilian Data Portal](https://www.gov.br/governodigital/pt-br/legislacao/resolucaocginda22432017pdf.pdf)
+Brazil,4,[Resolution to create the National Data Infrastructure open](https://dados.gov.br/pagina/instrucao-normativa-da-inda)
+Brazil,5,[Open Data Policy Decree](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm)
+Brazil,Existence,
+Brazil,What is the nature of the framework?,A framework exists but lacks full force of law.
+Brazil,"0,1;In the absence of a strong legal framework, are there alternative norms or customs that play this role in the country? If so, please explain how. ","The Federal Executive Open Data Policy was established by Decree 8777 of 2016 (1) and defines rules for the availability of open government data within the scope of the Federal Executive Branch. The policy consists of a series of normative, planning, and guidance documents. Decree No. 9,903 of 2019 (2) provides for the management and rights of the use of open data. Resolution No. 3 of the Management Committee of the National Open Data Infrastructure (3) provides for the complementary procedures and guidelines for the preparation and publication of Open Data Plans. 
+
+Source:
+(1) https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8777.htm
+(2) https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D9903.htm
+(3) https://www.in.gov.br/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/19357601/do1-2017-10-17-resolucao-n-3-de-13-de-outubro -de-2017-19357481"
+Brazil,Elements,
+Brazil,Rights and responsibilities:,
+Brazil,The framework establishes a common definition of open data.,Yes
+Brazil,2;Please indicate which section of the framework refers to this issue.,"The Open Data Policy is guided by the National Open Data Infrastructure (INDA). Infrastructure (1) was instituted by the first Open Government National Action Plan (2). The National Open Data Infrastructure (INDA) supports the definition of a set of standards, technologies, procedures, and control mechanisms necessary to meet the conditions for the dissemination and sharing of data and public information. According to Chapter 1, Article 2 of the INDA Normative Instruction (2), open data are public data represented in digital media, structured in an open format, processable by machine, referenced on the world wide web, and made available under an open license that allows its free use, consumption or crossing. A general guideline is based on the Open Knowledge International definition (3).
+
+
+Source:
+(1) https://dados.gov.br/pagina/instrucao-normativa-da-inda
+(2) http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Dsn/Dsn13117.htm
+Revoked by Decree No. 10.160, of 2019 http://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Decreto/D10160.htm#art13
+(3) https://dados.gov.br/pagina/dados-abertos"
+Brazil,The framework promotes open licensing without any restrictions beyond attribution and share-alike.,Yes
+Brazil,2;Please indicate which section of the framework refers to this issue.,"The Open Data Policy is guided by the National Open Data Infrastructure (INDA). Infrastructure (1) was instituted by the first Open Government National Action Plan (2). The National Open Data Infrastructure (INDA) supports the definition of a set of standards, technologies, procedures, and control mechanisms necessary to meet the conditions for the dissemination and sharing of data and public information.
+According to Article 2 of the Open Data Policy, the data must be made available under an open license that allows its free use, consumption, or crossing, limited to crediting the authorship or source.
+The National Open Data Infrastructure (INDA) also promotes open licensing. According to Chapter 1, Article 2 of INDA's Normative Instruction (1), the provision of data must grant wide access for anyone to use, reuse, and redistribute, subject to, at most, the requirement to credit its authorship and share by the same license.
+According to the Cataloging Manual on the Brazilian Open Data Portal (2), one must take into account whether the data has copyright or not. Suggested licenses for the public domain: Creative Commons Zero; Creative Commons Attribution 4.0; Public Domain Dedication and License (PDDL) and Open Database License (OdbL).A general guideline is based on the Open Knowledge International definition (3).
+
+Source:
+(1) https://dados.gov.br/pagina/instrucao-normativa-da-inda
+(2) Cataloging Manual on the Brazilian Open Data Portal: https://wiki.dados.gov.br/GetFile.aspx?File=%2fManuais%2fManual-de-Cataloga%C3%A7%C3%A3o-v1.0.pdf
+(3) https://dados.gov.br/pagina/dados-abertos"
+Brazil,"1,2;If the framework requires a specific license, please provide the URL or name of the license here",Creative Commons Zero; Creative Commons Attribution 4.0; Public Domain Dedication and License (PDDL) and Open Database License (OdbL)
+Brazil,The framework requires to publish data in machine readable formats.,Yes
+Brazil,2;Please indicate which section of the framework refers to this issue.,"According to article 3 of the Federal Executive's Open Data Policy, unrestricted access to databases is guaranteed, which must be machine-readable and available in open format.
+According to the Technical Booklet for Publication of Open Data in Brazil v1.0 (1) not exhaustively a list of allowed formats, and some formats are recommended, such as XLM, JSON, OSD, CSV, and RDF.
+The Electronic Government Interoperability Standards define guidelines on open formats for the use of Information and Communication Technology in government services in item 3.1. on Technical Specifications for Publication Media (2).
+
+Source:
+(1) https://dados.gov.br/pagina/cartilha-publicacao-dados-abertos
+(2) http://eping.governoeletronico.gov.br/"
+Brazil,The rules/guidance requires the use of specific data standards.,No
+Brazil,Specific considerations:,
+Brazil,The framework promotes training and capacity building among government officials.,Yes
+Brazil,2;Please indicate which section of the framework refers to this issue.,"In February 2021, the National Open Data Infrastructure Action Plan 2021-2022 was approved (1), defined the ""Continued program of guidance and
+training in open data and data reuse"" with thematic lines of training, carried out
+through events, with the collaboration of the various
+actors of the open data ecosystem, including
+public servants, individuals/groups active in the
+social control of public policies, private companies,
+researchers, journalists, social innovators.
+The General Office of the Union is responsible for carrying out the actions. According to Decree No. 8,777 (2), the Comptroller is responsible for managing the open data policy.
+
+Source:
+(1) https://dados.gov.br/wp/wp-content/uploads/2021/03/Plano-de-A%C3%A7%C3%A3o-INDA-vf.pdf
+(2) https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Decreto/D9903.htm#art1"
+Brazil,Extent,
+Brazil,"How widely do these laws, regulations, policies or guidance apply?","The relevant laws, policies and guidance assessed cover the majority of localities and government agencies."
+Brazil,"0,1,2;Please explain your answer and provide supporting urls if necessary.","The Open Data Policy, Article 1, aims to
+promote the publication of data contained in databases of bodies and entities of the direct federal, autarchic and foundational public administration in the form of open data.
+According to the Normative Instruction of the National Open Data Infrastructure No. 4, April 12, 2012 adoption for the other bodies and entities of the Executive, Legislative and Judiciary Powers, at the Federal, State, District and Municipal levels is optional,
+upon signature of the adhesion term."
+Brazil,"To what extent do relevant laws, regulations, policies, and guidance provide a comprehensive framework for data sharing?",
+Brazil,"To what extent do relevant laws, regulations, policies, and guidance provide a comprehensive framework for data sharing?","Since 2014, the Brazilian government promotes Electronic Government Interoperability measures and standards (1). Other advanced devices to facilitate data governance and interoperability, such as the Digital Government Strategy (2) that seek to implement a data interoperability bus that facilitates the integration and reuse of this information to provide services to citizens.
+Legislation on the Citizen Base Registry and the Data Governance Committee (3), mandatory, as bases for sharing data between different parts of the government.
+The country has recently consolidated its legal framework for the protection of personal data (4) which covers the conditions of use or processing of data by the public administration; the data sharing sector between drivers (private) with permission of the holder. In addition, according to article 30, the national data authority may establish supplementary rules for the activities of communication and sharing of personal data. These devices cover the sharing of government data with third parties, and third parties with the government, including companies.
+However, there are criticisms about the sharing of data between government and citizens, from the perspective of consent and privacy. According to the report of the associations. Derechos Digitales & Coding Rights, the Citizen's Base Registry gathers 51 sets of data from all government agencies and bodies, and this indicates concerns, such as partnerships between intelligence services, facial recognition at airports, cross-referencing database with information criminal and DNA, monitoring of public servants and health data leakage, because the Central Data Governance Committee exhibits indeterminate powers and powers, without any restrictions on the use and purpose of the data, and any participation of civil society (5).
+
+Source:
+(1) http://eping.governoeletronico.gov.br/
+(2) https://www.gov.br/governodigital/pt-br/EGD2020
+(3) https://www.gov.br/governodigital/pt-br/legislacao/legislacao-governanca-de-dados-e-interoperability
+(4) http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709compilado.htm
+(5) Varon, J.; Santos, B. Anastácio, K. 2020. Citizen's Base Registry: Megabases of Data. Rapid Response Fund for the Protection of Digital Rights in Latin America. Digital Rights & Coding Rights. https://www.codingrights.org/docs/megabase.pdf"
+Brazil,1,[General Data Protection Law Brazil](http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Lei/L13709compilado.htm)
+Brazil,2,[Digital Government Strategy for the period 2020 to 2022](http://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2020/Decreto/D10332.htm#art12)
+Brazil,3,[Data Governance and Interoperability Legislation](https://www.gov.br/governodigital/pt-br/legislacao/legislacao-governanca-de-dados-e-interoperabilidade)
+Brazil,4,[Electronic Government Interoperability Standards](http://eping.governoeletronico.gov.br/)
+Brazil,5,"[Varon, J.; Santos, B. Anastácio, K. 2020. Citizen's Base Registry: Megabases of Data. Rapid Response Fund for the Protection of Digital Rights in Latin America. Digital Rights & Coding Rights.](https://www.codingrights.org/docs/megabase.pdf)"
+Brazil,Existence,
+Brazil,What is the nature of the framework?,A framework exists and has the force of law.
+Brazil,2;Please identify the framework(s) you have assessed (e.g. name of law(s) or regulations),"Decree No. 10.046 of 2019 (1) creates governance in data sharing within the federal public administration, establishing rules and guidelines for data sharing between agencies and entities. It creates the Citizen's Base Registry as an integrative and data exchange base that serves as a reference base of information about citizens for the bodies and entities of the Federal Executive Power. The Central Data Governance Committee is responsible for the guidelines and guidelines for the categorization and sharing of all data.
+
+Source: Decree No. 10.046, of October 9, 2019 - provides for governance in data sharing within the federal public administration and institutes the Citizen's Base Registry and the Central Data Governance Committee. http://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Decreto/D10046.htm"
+Brazil,Elements,
+Brazil,Rights and responsibilities:,
+Brazil,The framework covers data sharing within government.,Yes
+Brazil,2;Please indicate which section of the framework refers to this issue.,"Decree No. 10.046 of 2019 (1), chapter 2, defines the levels of data sharing between government agencies and entities. Article 4 categorizes three levels: broad sharing
+when dealing with public data that are not subject to any access restriction; restricted sharing, in the case of data protected by confidentiality, under the terms of the data protection law to implement public policies, with the support of the Central Data Governance Committee; and specific sharing, in the case of data protected by confidentiality, under the terms of data protection legislation, grant access to specific bodies and entities based on the purposes provided for by law, under the regulation of the data manager.
+Broad data sharing does not require prior authorization by the data manager and can be through existing channels for open data and active transparency. Restricted data sharing by data managers is based on rules established by the Central Data Governance Committee. The specific sharing of data is subject to the consent of the data manager.
+
+
+
+Source: http://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Decreto/D10046.htm"
+Brazil,The framework covers how government should share data with other sectors.,No
+Brazil,The framework covers data sharing from other sectors to government.,No
+Brazil,The framework covers data sharing within the private sector.,No
+Brazil,Specific considerations:,
+Brazil,The framework explicitly focuses on artificial intelligence uses of data.,No
+Brazil,Extent,
+Brazil,How broad is the coverage of legal or policy frameworks for data sharing for the public good?,"The framework assessed covers all government agencies, and many themes."
+Brazil,"0,1,2,3;Please explain your answer and provide supporting urls if necessary.","The Data Governance and Interoperability legal and policy framework covers all government agencies and many topics.
+There are a set of ordinances to guide the procedures for sharing official databases between public administration bodies and entities; determine the competencies of the
+ Central Data Governance Committee (1).
+In addition to decrees on the creation of the digital citizenship platform to offer digital public services (2), and measures to simplify the provision of public services through the integration of information systems for public bodies.
+And transversal legislation, such as the Brazilian internet civil framework (3)
+on promoting rationalization and technological interoperability of e-government services; and the General Law for the Protection of Personal Data (4) which supports the sharing of data on a restricted and specific level.
+
+
+
+Source:
+(1) https://www.gov.br/governodigital/pt-br/legislacao/legislacao-governanca-de-dados-e-interoperability
+(2) http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/d9094.htm
+(3) http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm
+(4) http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm"
+Brazil,"How comprehensive, in terms of jurisdiction, is the coverage of the laws, regulations, policies, or guidance assessed for this question?",They provide national coverage.
+Brazil,"1,2;Please explain your answer and provide supporting urls if necessary.","According to the decree that guides the governance of data sharing within the public administration (1), data protected by fiscal confidentiality under the management of the Special Secretariat of the Federal Revenue of Brazil of the Ministry of Economy are excluded. The sharing of data by State agencies and entities is shared as widely as possible, subject to legal restrictions.
+
+
+
+Source:
+(1) https://www.gov.br/governodigital/pt-br/legislacao/legislacao-governanca-de-dados-e-interoperability"
+Brazil,"To what extent do relevant laws, regulations, policies, and guidance provide a comprehensive framework for consistent data management and publication? ",
+Brazil,"To what extent do relevant laws, regulations, policies, and guidance provide a comprehensive framework for consistent data management and publication? ","The country has the National Open Data Infrastructure that defines and guides the set of standards, technologies, procedures and is in compliance with the Open Data Policy (1). The infrastructure facilitates the dissemination and sharing of open data according to the interoperability and governance parameters of the Brazilian electronic government (2). The management of data publication is defined in the Open Data Plan (3), which is regulated by resolutions of the Open Data Infrastructure Management Committee. The plan defines the stages of the data opening project, uses social participation mechanisms, establishes a data cataloging schedule in the Brazilian Portal of Open Data.
+The Portal is the main platform that gathers and makes available open government data (4). The availability of data is monitored by the Federal Comptroller General, the body responsible for monitoring open data (5). The availability of open data can be monitored by the Open Data Monitoring Panel (6).
+
+Source:
+(1) https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8777.htm
+(2) http://eping.governoeletronico.gov.br/
+(3) https://wiki.dados.gov.br/Default.aspx?Page=Plano-de-Dados-Abertos&NavPath=Principais%20t%c3%b3picos
+(4) https://wiki.dados.gov.br/
+(5) https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Decreto/D10160.htm#art13
+(6) http://paineis.cgu.gov.br/dadosabertos/index.htm"
+Brazil,1,[National Open Data Infrastructure](https://wiki.dados.gov.br/MainPage.ashx)
+Brazil,2,[Electronic Government Interoperability Standards - ePING](http://eping.governoeletronico.gov.br/)
+Brazil,3,[Manual for the Development of Open Data Plans (PDAs)](https://2021-files.globaldatabarometer.org/127/8HjDwY8-manual-pda.pdf)
+Brazil,4,[Open data policy wiki](https://wiki.dados.gov.br/)
+Brazil,5,[Open Data Panel. General Comptroller of the Union](http://paineis.cgu.gov.br/dadosabertos/index.htm)
+Brazil,Existence,
+Brazil,What is the nature of the framework?,A framework exists and has the force of law.
+Brazil,2;Please identify the framework(s) you have assessed (e.g. name of law(s) or regulations),"The National Open Data Infrastructure (INDA) (1) is a set of standards, technologies, procedures, and control mechanisms necessary to meet the conditions for dissemination and sharing of data and public information in the Open Data model (2), according to the standards of the electronic government in Brazil (E-Ping) (3). INDA was established by Normative Instruction No. 4 in 2012 (4). With the institution of the Open Data Policy, which defines rules for the provision of open government data (5) and the Open Data Plan (PDA) as instruments for organizing, planning, implementing, and promoting the opening of data for bodies based on the guidelines of the Resolution No. 3 of the INDA Steering Committee (6).
+
+Source:
+(1) https://wiki.dados.gov.br/
+(2) https://dados.gov.br/pagina/dados-abertos/
+(3) http://eping.governoeletronico.gov.br/
+(4) https://dados.gov.br/pagina/instrucao-normativa-da-inda
+(5) https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8777.htm
+(6) https://www.in.gov.br/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/19357601/do1-2017-10-17-resolucao-n-3-de-13-de-outubro -de-2017-19357481"
+Brazil,Elements,
+Brazil,Rights and responsibilities:,
+Brazil,There are minimum standards for metadata when government data is catalogued or published.,Yes
+Brazil,2;Please indicate which section of the framework refers to this issue.,"The Technical Primer for Publishing Open Data in Brazil v1.0 (1) set of mandatory metadata and a set of desirable metadata. The Open Data Reference Model (2), the Open Government Partnership Action Plan 4th Action Plan commitment reference document for the Open Data Ecosystem, presents a Good Practice Recommendation for metadata. The Cataloging Manual in the Brazilian Open Data Portal (3) provides instructions for publication in the Brazilian Open Data Portal following the killing recommendations.
+
+Source:
+(1) https://dados.gov.br/pagina/cartilha-publicacao-dados-abertos
+(2) https://www.gov.br/cgu/pt-br/governo-aberto/a-ogp/planos-de-acao/4o-plano-de-acao-brasileiro/compromisso-2-docs/modelo -de-reference-of-data-opening_version-final-2.pdf
+(3) https://wiki.dados.gov.br/GetFile.aspx?File=%2fManuais%2fManual-de-Cataloga%C3%A7%C3%A3o-v1.0.pdf"
+Brazil,There is a standardised process for publishing and updating published government data.,Yes
+Brazil,2;Please indicate which section of the framework refers to this issue.,"Management for data publication is defined in the Open Data Plan (PDA) (1). The plan was established by the Open Data Policy, article 2, to guide the actions of implementation and data opening, through minimum quality standards, which facilitate the understanding and reuse of information (2). The Manual for Developing Open Data Plans (3) defines the formal structural model of an open data plan. The structure and content of the plan are regulated by Resolution No. 3 of the INDA Management Committee (4). Additional supporting guidance documents and templates are made available on the wiki on open data plans (5). After approval of the plan, the agency must publish the data in a common section ""Access to Information"", item ""Open Data"", according to article 6 of Resolution No. 3 of the INDA Steering Committee. The Federal Comptroller General must be notified of the publication of the data, according to article 11 of Resolution No. 3 of the INDA Management Committee to monitor the update.
+
+
+
+Source:
+(1) https://wiki.dados.gov.br/Default.aspx?Page=Plano-de-Dados-Abertos&NavPath=Principais%20t%c3%b3picos
+(2) https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8777.htm
+(3) https://www.gov.br/cgu/pt-br/centrais-de-conteudo/publicacoes/transparencia-publica/arquivos/manual-pda.pdf
+(4) https://wiki.dados.gov.br/GetFile.aspx?File=%2fComiteGestor%2fResolu%c3%a7%c3%b5es%2fresolucao-cginda-3-13-10-2017.pdf
+(5) https://wiki.dados.gov.br/Default.aspx?Page=Plano-de-Dados-Abertos&NavPath=Principais%20t%c3%b3picos"
+Brazil,"There are technical standards, including common data models, codelists, and identifiers for management and publication of government data.",Yes
+Brazil,2;Please indicate which section of the framework refers to this issue.,"The Technical Guide for Publication of Open Data in Brazil v1.0 (1) guides the publication of data, from preparation, validation, and publication. The primer has technical standards on data formats, metadata, and catalog organization. The conditions for dissemination and sharing of public data and information are guided by the Interoperability Standards (ePING) (2). A Data Openness Reference Model that includes recommendations and best practices was built as a subsidy for the open data ecosystem, via the 4th Action Plan of the Open Government Partnership (3).
+
+Source:
+(1)https://dados.gov.br/pagina/cartilha-publicacao-dados-abertos
+(2)http://eping.governoeletronico.gov.br/
+(3) https://www.gov.br/cgu/pt-br/governo-aberto/a-ogp/planos-de-acao/4o-plano-de-acao-brasileiro/compromisso-2-docs/modelo -de-reference-of-data-opening_version-final-2.pdf"
+Brazil,There are clearly documented quality control processes for government data.,No
+Brazil,There are clearly documented processes for soliciting and integrating feedback from external users to improve data quality.,Yes
