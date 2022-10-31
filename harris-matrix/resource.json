@@ -1,0 +1,64 @@
+{
+  "fields": [
+    {
+      "name": "label",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "unit-type",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "position",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "period",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "phase",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "url",
+      "type": "string",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ],
+  "primaryKey": [
+    "label"
+  ],
+  "foreignKeys": [
+    {
+      "fields": [
+        "period"
+      ],
+      "reference": {
+        "resource": "periods",
+        "fields": [
+          "id"
+        ]
+      }
+    },
+    {
+      "fields": [
+        "phase"
+      ],
+      "reference": {
+        "resource": "phases",
+        "fields": [
+          "id"
+        ]
+      }
+    }
+  ]
+}
